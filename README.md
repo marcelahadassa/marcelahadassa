@@ -1,5 +1,5 @@
 ### Olá, meu nome é Marcela e curso Ciência da Computação na UFRPE!<br>
-- 📚 Atualmente estou aprendendo Java.
+- 📚 Atualmente estou me dedicando a front-end.
 
 
   <img align="center" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
