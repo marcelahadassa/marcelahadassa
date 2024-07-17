@@ -18,5 +18,5 @@
  
 <a href = "mailto:marcelahadassa.pereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/mmarcelahs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcelahadassa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielli oliveira" height="30" width="40" /></a>
+
 </div>
