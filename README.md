@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou focada em aprender  como ser uma Desenvolvedora FullStack utilizando Java Spring Boot e Angular 17.</p>
+<p align="left">📚 Atualmente focada em aprender como ser uma Desenvolvedora FullStack utilizando Java Spring Boot e Angular 17.</p>
 
 ###
 
