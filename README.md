@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Marcela Hadassa e estudo Ciência da Computação na UFRPE!</h2>
+<h2 align="left">Olá, meu nome é Marcela Hadassa e sou estudante de Ciência da Computação na UFRPE!</h2>
 
 ###
 
